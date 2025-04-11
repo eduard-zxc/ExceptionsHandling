@@ -1,0 +1,14 @@
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/bin/Debug/net9.0/ExceptionsHandling
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/bin/Debug/net9.0/ExceptionsHandling.deps.json
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/bin/Debug/net9.0/ExceptionsHandling.runtimeconfig.json
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/bin/Debug/net9.0/ExceptionsHandling.dll
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/bin/Debug/net9.0/ExceptionsHandling.pdb
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/obj/Debug/net9.0/ExceptionsHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/obj/Debug/net9.0/ExceptionsHandling.AssemblyInfoInputs.cache
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/obj/Debug/net9.0/ExceptionsHandling.AssemblyInfo.cs
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/obj/Debug/net9.0/ExceptionsHandling.csproj.CoreCompileInputs.cache
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/obj/Debug/net9.0/ExceptionsHandling.dll
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/obj/Debug/net9.0/refint/ExceptionsHandling.dll
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/obj/Debug/net9.0/ExceptionsHandling.pdb
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/obj/Debug/net9.0/ExceptionsHandling.genruntimeconfig.cache
+/Users/eduard/Wokspace/Amdaris/ExeptionsHandling/ExceptionsHandling/obj/Debug/net9.0/ref/ExceptionsHandling.dll
